@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauro1477
 - 👀 I am WordPress Developer 
-- 🌱 I’m currently Google Map API.
+- 🌱 I’m currently learning about Google Map API and working on my latest project https://openrange1stg.wpenginepowered.com/.
 - 📫 How to reach me : maurovargas7725@gmail.com
 
 <!---
