@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauro1477
-- 👀 I’m interested in PHP development
-- 🌱 I’m currently learning vanilla PHP and Symfony.
+- 👀 I am WordPress Developer 
+- 🌱 I’m currently Google Map API.
 - 📫 How to reach me : maurovargas7725@gmail.com
 
 <!---
